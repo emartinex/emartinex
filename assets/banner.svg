@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="360" viewBox="0 0 1440 360" role="img" aria-label="Erik Gerardo Martínez Galindo, docencia, redes, ciberseguridad e inteligencia artificial">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081424"/><stop offset=".56" stop-color="#0d2139"/><stop offset="1" stop-color="#082a43"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#0e7490" stop-opacity=".46"/><stop offset="1" stop-color="#0e7490" stop-opacity="0"/></radialGradient>
+    <pattern id="mesh" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#2c5275" stroke-opacity=".21" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1440" height="360" rx="22" fill="url(#base)"/>
+  <rect width="1440" height="360" rx="22" fill="url(#mesh)"/>
+  <circle cx="1210" cy="160" r="310" fill="url(#glow)"/>
+  <rect x="32" y="30" width="1376" height="300" rx="16" fill="none" stroke="#296080" stroke-opacity=".75"/>
+  <rect x="64" y="68" width="6" height="174" rx="3" fill="url(#accent)"/>
+  <text x="94" y="106" fill="#f0f9ff" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="2">ERIK GERARDO</text>
+  <text x="94" y="164" fill="#f0f9ff" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="1">MARTÍNEZ GALINDO</text>
+  <text x="96" y="218" fill="#58d5ed" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">DOCENCIA UNIVERSITARIA  /  REDES  /  CIBERSEGURIDAD  /  IA</text>
+  <path d="M95 246H818" stroke="#3e6687" stroke-width="1"/>
+  <text x="96" y="284" fill="#b3ccdf" font-family="Segoe UI, Arial, sans-serif" font-size="22" letter-spacing="2">TECNOLOGÍA  •  EDUCACIÓN  •  INNOVACIÓN</text>
+  <g opacity=".68" stroke="#35c4e5" stroke-width="2" fill="none">
+    <path d="M975 90L1073 122 1151 65 1251 102 1355 52M1073 122L1041 204 1157 245 1251 193 1355 234M1151 65L1157 245M1251 102L1251 193"/>
+    <path d="M943 252L1041 204M1157 245L1318 297" stroke-opacity=".5"/>
+  </g>
+  <g fill="#4ed4ed">
+    <circle cx="975" cy="90" r="6"/><circle cx="1073" cy="122" r="8"/><circle cx="1151" cy="65" r="6"/><circle cx="1251" cy="102" r="7"/><circle cx="1355" cy="52" r="6"/><circle cx="1041" cy="204" r="7"/><circle cx="1157" cy="245" r="8"/><circle cx="1251" cy="193" r="7"/><circle cx="1355" cy="234" r="6"/><circle cx="943" cy="252" r="5"/><circle cx="1318" cy="297" r="5"/>
+  </g>
+  <g transform="translate(1120 135)">
+    <path d="M0 -59 66 -34V30C66 70 34 97 0 112-34 97-66 70-66 30V-34Z" fill="#0a1e31" stroke="#55d8ef" stroke-width="5"/>
+    <rect x="-26" y="12" width="52" height="41" rx="7" fill="#1ba9c9"/>
+    <path d="M-17 12V-6C-17-31 17-31 17-6V12" fill="none" stroke="#a5f3fc" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="0" cy="29" r="5" fill="#092033"/><path d="M0 32V42" stroke="#092033" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>
